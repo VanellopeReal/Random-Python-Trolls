@@ -19,6 +19,8 @@ You need to manually cover the prank .exe or .py by yourself (for a good reason:
 - Maybe some low-end computers can have problems in running manual pranks (like manual shutdown via alt f4)
 - If any option doesn't have a native .exe in folder, you are going to need to create one if you don't want to use .py
 
+- **Windows Defender** maybe see a .exe as a threat (pyinstaller, py2exe & etc.). I don't know if there's a way to workaround it, but, anyway, there's all the .py files.
+
 ### Caution:
 - Before read the others cautions, remember, there are some infinite .py versions (and infinite configurable parameters, use with caution).
 - There is only some scripts that will use a large amount of ram, disk or cpu. It is supposed to be fun and harmless, just a prank, be careful.

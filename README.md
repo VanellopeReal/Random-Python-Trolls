@@ -19,7 +19,8 @@ You need to manually cover the prank .exe or .py by yourself (for a good reason:
 - Maybe some low-end computers can have problems in running manual pranks (like manual shutdown via alt f4)
 - If any option doesn't have a native .exe in folder, you are going to need to create one if you don't want to use .py
 
-- **Windows Defender** maybe see a .exe as a threat (pyinstaller, py2exe & etc.). I don't know if there's a way to workaround it, but, anyway, there's all the .py files.
+- **Windows Defender** maybe see a .exe as a threat (pyinstaller, py2exe & etc.). All .py is also included in the release.
+> obs² - A way to workaround it is the use of encrypting your code, like base64 or Fernet & etc.
 
 ### Caution:
 - Before read the others cautions, remember, there are some infinite .py versions (and infinite configurable parameters, use with caution).

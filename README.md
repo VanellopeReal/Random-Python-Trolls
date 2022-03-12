@@ -16,6 +16,7 @@ Random scripts (.exe or .py) to troll friends or...
 
 You need to manually cover the prank .exe or .py by yourself (for a good reason: I can not know which type of application the victim is waiting for, but I will leave the .exe and .py already coded in releases)
 - Maybe some .py will have config parameters (like infinite code with while repeat or something like that) and need to manually get changed.
+- Maybe some low-end computers can have problems in running manual pranks (like manual shutdown via alt f4)
 
 ### Caution:
 - There is not any script that will use a large amount of ram, disk or cpu. It is supposed to be fun and harmless, just a prank.

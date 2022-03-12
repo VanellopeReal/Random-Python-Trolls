@@ -7,7 +7,7 @@ Random scripts (.exe or .py) to troll friends or...
 - Spam Windows Explorer (use with caution in low-end PC)
 > Maybe crash explorer.exe or lag the PC if use the 'laggy' version
 - Open Browser and Play "Rick Rolled" song
-- Win + D (with infinite while, caution)
+- Win + D spam
 - Open noteped and write "You Have Been Hacked!"
 - Open Desktop and Turn Off PC (via alt+f4)
 - Directly Shutdown

@@ -20,5 +20,6 @@ You need to manually cover the prank .exe or .py by yourself (for a good reason:
 - If any option doesn't have a native .exe in folder, you are going to need to create one if you don't want to use .py
 
 ### Caution:
+- Before read the others cautions, remember, there are some infinite .py versions (and infinite configurable parameters, use with caution).
 - There is not any script that will use a large amount of ram, disk or cpu. It is supposed to be fun and harmless, just a prank.
 - Maybe the Spam Scripts in laggy version crash the software that is supposed to be 'spammed' or lag the victim PC.

@@ -2,7 +2,7 @@
 
 Random scripts (.exe or .py) to troll friends or...
 
-### Features:
+### Features (at this moment):
 - Open new desktop
 - Spam Windows Explorer (use with caution in low-end PC)
 > Maybe crash explorer.exe or lag the PC if use the 'laggy' version
